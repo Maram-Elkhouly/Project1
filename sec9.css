@@ -1,0 +1,244 @@
+
+.sec9{
+    background-color: #1c1c1c;
+    background-position: 0px 0px, 50% 50%;
+    background-size: auto, cover;
+    display: flex;
+    height: 720px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;}
+#hhh6{
+        color: #fff;
+        position: absolute;
+        padding: 15px 12px;
+        height: 100px;
+        top: 4821px;
+        right: 50px;
+        left: 505px;
+        font-size: 35px;
+        margin-top: 6px;
+}
+.heading6 .line6{
+        display: block;
+        width: 116px;
+        height: 4px;
+        background-color: #0077be;
+        margin: 0 auto 70px auto;
+        left: 614px;
+        position: absolute;
+        top: 4897px;
+}
+.change4{
+    position: relative;
+}
+.change4:after{
+    position: absolute;
+    content: "";
+    background-color:  rgba(0, 0, 0, 0.5);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+}
+.change4:hover:after{
+    width: 100%;
+    height: 100%;
+    transition: .5s;
+    z-index: -1;
+}
+.trainer1{
+    overflow: hidden;
+    height: 320px;
+    width: 230px;
+    position: relative;
+    transform: translate(-50%, -50%);
+    left: 340px;
+    top: 375px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.trainer1 .karate{
+    position: absolute;
+    height: 70%;
+    top: 24px;
+    left: 41px;
+}
+.change4:hover .karate{
+    opacity: 0.5;
+}
+.trainer1 .trainer-name{
+    position: absolute;
+    top: 234px;
+    text-align: center;
+    color: #000;
+    left: 36px;
+}
+.change4:hover .trainer-name{
+    color: #fff;
+    transition: color .7s;
+}
+.trainer1 .trainer-job{
+    position: absolute;
+    top: 287px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #222;
+    font-size: 15px;
+    left: 84px;
+}
+.change4:hover .trainer-job{
+    color: #0077be;
+}
+.social{
+    position: absolute;
+    top: 40px;
+    bottom: 0;
+    right: 0;
+    left: 164px;
+    opacity: 0;
+    visibility: hidden;
+    background-color: #fff;
+    width: 26px;
+    height: 97px;
+}
+.social a{
+    width: 25px;
+    height: 34px;
+    position: absolute;
+}
+.change4:hover .social{
+    visibility: visible;
+    opacity: 1;
+}
+
+
+.trainer2{
+    overflow: hidden;
+    height: 320px;
+    width: 230px;
+    position: relative;
+    transform: translate(-50%, -50%);
+    left: 663px;
+    top: 55px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.trainer2 .taek{
+    position: absolute;
+    height: 70%;
+    top: 24px;
+    left: 41px;
+}
+.change4:hover .taek{
+    opacity: 0.5;
+}
+.trainer2 .trainer-name2{
+    position: absolute;
+    top: 234px;
+    text-align: center;
+    color: #000;
+    left: 21px;
+}
+.change4:hover .trainer-name2{
+    color: #fff;
+    transition: color .7s;
+}
+.trainer2 .trainer-job2{
+    position: absolute;
+    top: 287px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #222;
+    font-size: 15px;
+    left: 75px;
+}
+.change4:hover .trainer-job2{
+    color: #0077be;
+}
+.social2{
+    position: absolute;
+    top: 40px;
+    bottom: 0;
+    right: 0;
+    left: 164px;
+    opacity: 0;
+    visibility: hidden;
+    background-color: #fff;
+    width: 26px;
+    height: 97px;
+}
+.social2 a{
+    width: 25px;
+    height: 34px;
+    position: absolute;
+}
+.change4:hover .social2{
+    visibility: visible;
+    opacity: 1;
+}
+
+
+.trainer3{
+    overflow: hidden;
+    height: 320px;
+    width: 230px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 985px;
+    top: 5152px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.trainer3 .kickboxing{
+    position: absolute;
+    height: 70%;
+    top: 24px;
+    left: 17px;
+    width: 200px;
+}
+.change4:hover .kickboxing{
+    opacity: 0.5;
+}
+.trainer3 .trainer-name3{
+    position: absolute;
+    top: 234px;
+    text-align: center;
+    color: #000;
+    left: 37px;
+}
+.change4:hover .trainer-name3{
+    color: #fff;
+    transition: color .7s;
+}
+.trainer3 .trainer-job3{
+    position: absolute;
+    top: 287px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #222;
+    font-size: 15px;
+    left: 67px;
+}
+.change4:hover .trainer-job3{
+    color: #0077be;
+}
+.social3{
+    position: absolute;
+    top: 40px;
+    bottom: 0;
+    right: 0;
+    left: 189px;
+    opacity: 0;
+    visibility: hidden;
+    background-color: #fff;
+    width: 26px;
+    height: 97px;
+}
+.social3 a{
+    width: 25px;
+    height: 34px;
+    position: absolute;
+}
+.change4:hover .social3{
+    visibility: visible;
+    opacity: 1;
+}
+

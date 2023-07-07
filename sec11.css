@@ -1,0 +1,54 @@
+
+
+
+.sec11{
+    background-color:  #a9a9a9;
+    background-position: 0px 0px, 50% 50%;
+    background-size: auto, cover;
+    display: flex;
+    height: 330px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+.footerimg{
+    position: absolute;
+    width: 300px;
+    height: 180px;
+    top: 6206px;
+    left: 545px;
+}
+.contactus{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 6396px;
+    left: 530px;
+}
+.contactus a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: #fff;
+    margin: 2px;
+    border-radius: 50%;
+}
+.contactus a i{
+    font-size: 2em;
+    color: #000;
+    opacity: 0.9;
+}
+.contactus a:hover{
+    background-color: #0077be;
+    transition: 0.5s;
+}
+.lastfooter{
+    text-align: center;
+}
+.lastfooter p{
+    position: absolute;
+    color: #000;
+    top: 6450px;
+    left: 472px;
+}
+

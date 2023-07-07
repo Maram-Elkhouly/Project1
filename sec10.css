@@ -1,0 +1,272 @@
+
+.sec10{
+    background-color: #333333;
+    background-position: 0px 0px, 50% 50%;
+    background-size: auto, cover;
+    display: flex;
+    height: 720px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+#hhh7{
+    color: #fff;
+    position: absolute;
+    padding: 15px 12px;
+    height: 100px;
+    top: 5496px;
+    right: 50px;
+    left: 591px;
+    font-size: 35px;
+    margin-top: 6px;
+}
+.heading7 .line7{
+    display: block;
+    width: 88px;
+    height: 4px;
+    background-color: #0077be;
+    margin: 0 auto 70px auto;
+    left: 631px;
+    position: absolute;
+    top: 5568px;
+}
+.change5{
+    position: relative;
+}
+.change5:after{
+    position: absolute;
+    content: "";
+    background-color:  rgba(0, 0, 0, 0.5);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+}
+.change5:hover:after{
+    width: 100%;
+    height: 100%;
+    transition: .5s;
+    z-index: -1;
+}
+.first-review{
+    overflow: hidden;
+    height: 573px;
+    width: 269px;
+    position: relative;
+    transform: translate(-50%, -50%);
+    left: 340px;
+    top: 353px;
+    background-color:rgba(255, 255, 255, 0.6)
+}
+.first-review .first-man{
+    position: absolute;
+    height: 266px;
+    top: 24px;
+    width: 190px;
+    left: 37px;
+}
+.change5:hover .first-man{
+    opacity: 0.5;
+}
+.first-review .user-2-16{
+    position: absolute;
+    top: 300px;
+    left: 37px;
+}
+.first-review .reviewer-name{
+    position: absolute;
+    top: 286px;
+    left: 59px;
+    color: #000;
+}
+.first-review .time-8-16{
+    position: absolute;
+    top: 301px;
+    left: 104px;
+}
+.first-review .time{
+    position: absolute;
+    top: 286px;
+    left: 123px;
+    color: #000;
+}
+.first-review .chat-2-16{
+    position: absolute;
+    top: 304px;
+    left: 181px;
+}
+.first-review .chat{
+    position: absolute;
+    top: 286px;
+    left: 204px;
+    color: #000;
+}
+.first-review .his-review{
+    position: absolute;
+    top: 311px;
+    left: 40px;
+    color: #000;
+}
+.first-review .his-story{
+    position: absolute;
+    top: 386px;
+    left: 40px;
+    color: #000;
+}
+.first-review .read11{
+    position: absolute;
+    top: 538px;
+    left: 42px;
+    color: #0077be;
+    text-decoration: none;
+}
+
+
+.second-review{
+    overflow: hidden;
+    height: 573px;
+    width: 269px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 702px;
+    top: 5882px;
+    background-color:rgba(255, 255, 255, 0.6)
+}
+.second-review .second-woman{
+    position: absolute;
+    height: 266px;
+    top: 24px;
+    width: 190px;
+    left: 37px;
+}
+.change5:hover .second-woman{
+    opacity: 0.5;
+}
+.second-review .user-icon2{
+    position: absolute;
+    top: 300px;
+    left: 37px;
+}
+.second-review .reviewer-name2{
+    position: absolute;
+    top: 286px;
+    left: 59px;
+    color: #000;
+}
+.second-review .time-icon2{
+    position: absolute;
+    top: 301px;
+    left: 111px;
+}
+.second-review .time2{
+    position: absolute;
+    top: 286px;
+    left: 131px;
+    color: #000;
+}
+.second-review .chat-icon2{
+    position: absolute;
+    top: 304px;
+    left: 178px;
+}
+.second-review .chat2{
+    position: absolute;
+    top: 286px;
+    left: 200px;
+    color: #000;
+}
+.second-review .his-review2{
+    position: absolute;
+    top: 311px;
+    left: 24px;
+    color: #000;
+}
+.second-review .his-story2{
+    position: absolute;
+    top: 366px;
+    left: 25px;
+    color: #000;
+}
+.second-review .read22{
+    position: absolute;
+    top: 538px;
+    left: 27px;
+    color: #0077be;
+    text-decoration: none;
+}
+
+
+.third-review{
+    overflow: hidden;
+    height: 573px;
+    width: 269px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 1058px;
+    top: 5882px;
+    background-color:rgba(255, 255, 255, 0.6)
+}
+.third-review .third-man{
+    position: absolute;
+    height: 266px;
+    top: 24px;
+    width: 190px;
+    left: 37px;
+}
+.change5:hover .third-man{
+    opacity: 0.5;
+}
+.third-review .user-icon3{
+    position: absolute;
+    top: 300px;
+    left: 37px;
+}
+.third-review .reviewer-name3{
+    position: absolute;
+    top: 286px;
+    left: 59px;
+    color: #000;
+}
+.third-review .time-icon3{
+    position: absolute;
+    top: 301px;
+    left: 103px;
+}
+.third-review .time3{
+    position: absolute;
+    top: 286px;
+    left: 121px;
+    color: #000;
+}
+.third-review .chat-icon3{
+    position: absolute;
+    top: 304px;
+    left: 178px;
+}
+.third-review .chat3{
+    position: absolute;
+    top: 286px;
+    left: 200px;
+    color: #000;
+}
+.third-review .his-review3{
+    position: absolute;
+    top: 311px;
+    left: 16px;
+    color: #000;
+}
+.third-review .his-story3{
+    position: absolute;
+    top: 366px;
+    left: 25px;
+    color: #000;
+}
+.third-review .read33{
+    position: absolute;
+    top: 538px;
+    left: 27px;
+    color: #0077be;
+    text-decoration: none;
+}
+

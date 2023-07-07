@@ -1,0 +1,273 @@
+
+
+
+
+
+
+
+
+.sec7{
+    background-color: #1c1c1c;
+    background-position: 0px 0px, 50% 50%;
+    background-size: auto, cover;
+    display: flex;
+    height: 720px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    
+}
+#hhh5{
+    color: #fff;
+    position: absolute;
+    padding: 15px 12px;
+    height: 100px;
+    top: 3842px;
+    right: 50px;
+    left: 505px;
+    font-size: 35px;
+    margin-top: 6px;
+}
+.heading5 .line5{
+    display: block;
+    width: 116px;
+    height: 4px;
+    background-color: #0077be;
+    margin: 0 auto 70px auto;
+    left: 614px;
+    position: absolute;
+    top: 3920px;
+}
+
+.menu1{
+    position: absolute;
+    top: 258px;
+    left: 241px;
+    width: 243px;
+    height: 306px;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    border: 1px solid #fff;
+}
+#no11{
+    top: -6px;
+    position: absolute;
+    left: 62px;
+    color: #fff;
+}
+.change3:hover #no11{
+    color: #0077be;
+}
+#btn1{
+    position: absolute;
+    top: 251px;
+    left: 59px;
+    width: 130px;
+    height: 35px;
+    background: #0077ff;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 17px;
+
+}
+.circle{
+    background: lightblue;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    display: inline-block;
+}
+#sign{
+    position: absolute;
+    left: 24px;
+    top: -6px;
+
+}
+.m1{
+    position: absolute;
+    right: 74px;
+    top: 50px;
+}
+.month{
+    position: absolute;
+    left: 10px;
+    top: 26px;
+
+}
+.det{
+    position: absolute;
+    right: 49px;
+    top: 136px;
+    color: #fff;
+}
+.change3{
+    position: relative;
+}
+.change3:after{
+    position: absolute;
+    content: "";
+    background-color:  rgba(255, 255, 255, 0.5);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+}
+.change3:hover:after{
+    width: 100%;
+    height: 100%;
+    transition: .5s;
+    z-index: -1;
+    }
+.change3:hover #sign{
+    color: #0077be;
+    transition: color .7s;
+}
+.change3:hover .month{
+    color: #0077be;
+    transition: color .7s;
+}
+
+
+.menu2{
+    position: absolute;
+    top: 4181px;
+    left: 671px;
+    width: 243px;
+    height: 306px;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    border: 1px solid #fff;
+}
+#no22{
+    top: -6px;
+    position: absolute;
+    left: 43px;
+    color: #fff;
+}
+.change3:hover #no22{
+    color: #0077be;
+}
+#btn2{
+    position: absolute;
+    top: 251px;
+    left: 59px;
+    width: 130px;
+    height: 35px;
+    background: #0077ff;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 17px;
+
+}
+.circle2{
+    background: lightblue;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    display: inline-block;
+}
+#sign2{
+    position: absolute;
+    left: 24px;
+    top: -6px;
+
+}
+.m2{
+    position: absolute;
+    right: 74px;
+    top: 50px;
+}
+.month2{
+    position: absolute;
+    left: 10px;
+    top: 26px;
+
+}
+.det2{
+    position: absolute;
+    right: 49px;
+    top: 136px;
+    color: #fff;
+}
+.change3:hover #sign2{
+    color: #0077be;
+    transition: color .7s;
+}
+.change3:hover .month2{
+    color: #0077be;
+    transition: color .7s;
+}
+
+
+.menu3{
+    position: absolute;
+    top: 4181px;
+    left: 1083px;
+    width: 243px;
+    height: 306px;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    border: 1px solid #fff;
+}
+#no33{
+    top: -6px;
+    position: absolute;
+    left: 75px;
+    color: #fff;
+}
+.change3:hover #no33{
+    color: #0077be;
+}
+#btn3{
+    position: absolute;
+    top: 251px;
+    left: 59px;
+    width: 130px;
+    height: 35px;
+    background: #0077ff;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 17px;
+
+}
+.circle3{
+    background: lightblue;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    display: inline-block;
+}
+#sign3{
+    position: absolute;
+    left: 18px;
+    top: -6px;
+
+}
+.m3{
+    position: absolute;
+    right: 74px;
+    top: 50px;
+}
+.month3{
+    position: absolute;
+    left: 10px;
+    top: 26px;
+
+}
+.det3{
+    position: absolute;
+    right: 32px;
+    top: 136px;
+    color: #fff;
+}
+.change3:hover #sign3{
+    color: #0077be;
+    transition: color .7s;
+}
+.change3:hover .month3{
+    color: #0077be;
+    transition: color .7s;
+}

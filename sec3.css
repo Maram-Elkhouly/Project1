@@ -1,0 +1,658 @@
+
+
+.sec3{
+    background-color:  #333333;
+    background-position: 0px 0px, 50% 50%;
+    background-size: auto, cover;
+    display: flex;
+    height: 659px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+#hhh2{
+    color: #fff;
+    position: absolute;
+    padding: 15px 12px;
+    height: 100px;
+    top: 1332px;
+    right: 50px;
+    left: 611px;
+    font-size: 35px;
+    margin-top: 6px;
+
+}
+.heading2 .line2{
+    display: block;
+    width: 77px;
+    height: 4px;
+    background-color: #0077be;
+    margin: 0 auto 70px auto;
+    left: 660px;
+    position: absolute;
+    top: 1402px;
+}
+.info{
+    overflow: hidden;
+    height: 220px;
+    width: 180px;
+    position: relative;
+    left: 252px;
+    top: 140px;
+}
+.info .coach1{
+    width: 100%;
+    height: 100%;
+    transition: 2s;
+}
+.info .caption{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color:rgba(255, 255, 255, 0.5);
+    transition: 0.7s;
+    text-align: center;
+    opacity: 0;
+    transition: 1s;
+    visibility: hidden;
+
+}
+.info .caption .content{
+    position: relative;
+    top: 72px;
+    
+}
+.info .caption .name{
+    color: #0077be;
+    text-transform: uppercase;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s ;
+    transition-delay: 0;
+    position: absolute;
+    top: 400px;
+    left: 70px;
+}
+.info .caption .name2{
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s ;
+    transition-delay: 0.5s;
+    position: absolute;
+    font-weight: bold;
+    top: 400px;
+    left: 55px;
+}
+.info .caption .icons1{
+    background-color: rgba(30, 144, 255, 0.5);;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s;
+    transition-delay: 1s;
+    position: absolute;
+    height: 20px;
+    top: 400px;
+    left: 100px;
+
+}
+.info .caption .icons2{
+    background-color: rgba(30, 144, 255, 0.5);;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s;
+    transition-delay: 1s;
+    position: absolute;
+    height: 20px;
+    top: 400px;
+    left: 70px;
+}
+.info:hover .caption{
+    visibility: visible;
+    opacity: 1;
+
+}
+.info:hover .name{
+    visibility: visible;
+    opacity: 1;
+    top: -1px;
+}
+.info:hover .name2{
+    visibility: visible;
+    opacity: 1;
+    top: 30px;
+}
+.info:hover .icons1{
+    visibility: visible;
+    opacity: 1;
+    top: 90px;
+}
+.info:hover .icons2{
+    visibility: visible;
+    opacity: 1;
+    top: 90px;
+}
+
+.info2{
+    overflow: hidden;
+    height: 220px;
+    width: 180px;
+    position: relative;
+    left: 250px;
+    top: 180px;
+}
+.info2 .coach2{
+    width: 100%;
+    height: 100%;
+    transition: 2s;
+}
+.info2 .caption2{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color:rgba(255, 255, 255, 0.5);
+    transition: 0.7s;
+    text-align: center;
+    opacity: 0;
+    transition: 1s;
+    visibility: hidden;
+
+}
+.info2 .caption2 .content2{
+    position: relative;
+    top: 72px;
+    
+}
+.info2 .caption2 .name11{
+    color: #0077be;
+    text-transform: uppercase;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s ;
+    transition-delay: 0;
+    position: absolute;
+    top: 400px;
+    left: 70px;
+}
+.info2 .caption2 .name22{
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s ;
+    transition-delay: 0.5s;
+    position: absolute;
+    font-weight: bold;
+    top: 400px;
+    left: 70px;
+}
+.info2 .caption2 .icons11{
+    background-color: rgba(30, 144, 255, 0.5);;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s;
+    transition-delay: 1s;
+    position: absolute;
+    height: 20px;
+    top: 400px;
+    left: 100px;
+
+}
+.info2 .caption2 .icons22{
+    background-color: rgba(30, 144, 255, 0.5);;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s;
+    transition-delay: 1s;
+    position: absolute;
+    height: 20px;
+    top: 400px;
+    left: 70px;
+}
+.info2:hover .caption2{
+    visibility: visible;
+    opacity: 1;
+
+}
+.info2:hover .name11{
+    visibility: visible;
+    opacity: 1;
+    top: -1px;
+}
+.info2:hover .name22{
+    visibility: visible;
+    opacity: 1;
+    top: 30px;
+}
+.info2:hover .icons11{
+    visibility: visible;
+    opacity: 1;
+    top: 90px;
+}
+.info2:hover .icons22{
+    visibility: visible;
+    opacity: 1;
+    top: 90px;
+}
+
+.info3{
+    overflow: hidden;
+    height: 220px;
+    width: 180px;
+    position: relative;
+    left: 600px;
+    top: -300px;
+}
+.info3 .coach3{
+    width: 100%;
+    height: 100%;
+    transition: 2s;
+}
+.info3 .caption3{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color:rgba(255, 255, 255, 0.5);
+    transition: 0.7s;
+    text-align: center;
+    opacity: 0;
+    transition: 1s;
+    visibility: hidden;
+
+}
+.info3 .caption3 .content3{
+    position: relative;
+    top: 72px;
+    
+}
+.info3 .caption3 .name111{
+    color: #0077be;
+    text-transform: uppercase;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s ;
+    transition-delay: 0;
+    position: absolute;
+    top: 400px;
+    left: 70px;
+}
+.info3 .caption3 .name222{
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s ;
+    transition-delay: 0.5s;
+    position: absolute;
+    font-weight: bold;
+    top: 400px;
+    left: 80px;
+}
+.info3 .caption3 .icons111{
+    background-color: rgba(30, 144, 255, 0.5);;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s;
+    transition-delay: 1s;
+    position: absolute;
+    height: 20px;
+    top: 400px;
+    left: 100px;
+
+}
+.info3 .caption3 .icons222{
+    background-color: rgba(30, 144, 255, 0.5);;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s;
+    transition-delay: 1s;
+    position: absolute;
+    height: 20px;
+    top: 400px;
+    left: 70px;
+}
+.info3:hover .caption3{
+    visibility: visible;
+    opacity: 1;
+
+}
+.info3:hover .name111{
+    visibility: visible;
+    opacity: 1;
+    top: -1px;
+}
+.info3:hover .name222{
+    visibility: visible;
+    opacity: 1;
+    top: 30px;
+}
+.info3:hover .icons111{
+    visibility: visible;
+    opacity: 1;
+    top: 90px;
+}
+.info3:hover .icons222{
+    visibility: visible;
+    opacity: 1;
+    top: 90px;
+}
+
+.info4{
+    overflow: hidden;
+    height: 220px;
+    width: 180px;
+    position: absolute;
+    left: 601px;
+    top: 1716px;
+}
+.info4 .coach4{
+    width: 100%;
+    height: 100%;
+    transition: 2s;
+}
+.info4 .caption4{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color:rgba(255, 255, 255, 0.5);
+    transition: 0.7s;
+    text-align: center;
+    opacity: 0;
+    transition: 1s;
+    visibility: hidden;
+
+}
+.info4 .caption4 .content4{
+    position: relative;
+    top: 72px;
+    
+}
+.info4 .caption4 .name41{
+    color: #0077be;
+    text-transform: uppercase;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s ;
+    transition-delay: 0;
+    position: absolute;
+    top: 400px;
+    left: 70px;
+}
+.info4 .caption4 .name42{
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s ;
+    transition-delay: 0.5s;
+    position: absolute;
+    font-weight: bold;
+    top: 400px;
+    left: 70px;
+}
+.info4 .caption4 .icons41{
+    background-color: rgba(30, 144, 255, 0.5);;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s;
+    transition-delay: 1s;
+    position: absolute;
+    height: 20px;
+    top: 400px;
+    left: 100px;
+
+}
+.info4 .caption4 .icons42{
+    background-color: rgba(30, 144, 255, 0.5);;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s;
+    transition-delay: 1s;
+    position: absolute;
+    height: 20px;
+    top: 400px;
+    left: 70px;
+}
+.info4:hover .caption4{
+    visibility: visible;
+    opacity: 1;
+
+}
+.info4:hover .name41{
+    visibility: visible;
+    opacity: 1;
+    top: -1px;
+}
+.info4:hover .name42{
+    visibility: visible;
+    opacity: 1;
+    top: 30px;
+}
+.info4:hover .icons41{
+    visibility: visible;
+    opacity: 1;
+    top: 90px;
+}
+.info4:hover .icons42{
+    visibility: visible;
+    opacity: 1;
+    top: 90px;
+}
+
+.info5{
+    overflow: hidden;
+    height: 220px;
+    width: 180px;
+    position: absolute;
+    left: 925px;
+    top: 1456px;
+}
+.info5 .coach5{
+    width: 100%;
+    height: 100%;
+    transition: 2s;
+}
+.info5 .caption5{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color:rgba(255, 255, 255, 0.5);
+    transition: 0.7s;
+    text-align: center;
+    opacity: 0;
+    transition: 1s;
+    visibility: hidden;
+
+}
+.info5 .caption5 .content5{
+    position: relative;
+    top: 72px;
+    
+}
+.info5 .caption5 .name51{
+    color: #0077be;
+    text-transform: uppercase;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s ;
+    transition-delay: 0;
+    position: absolute;
+    top: 400px;
+    left: 70px;
+}
+.info5 .caption5 .name52{
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s ;
+    transition-delay: 0.5s;
+    position: absolute;
+    font-weight: bold;
+    top: 400px;
+    left: 70px;
+}
+.info5 .caption5 .icons51{
+    background-color: rgba(30, 144, 255, 0.5);;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s;
+    transition-delay: 1s;
+    position: absolute;
+    height: 20px;
+    top: 400px;
+    left: 100px;
+
+}
+.info5 .caption5 .icons52{
+    background-color: rgba(30, 144, 255, 0.5);;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s;
+    transition-delay: 1s;
+    position: absolute;
+    height: 20px;
+    top: 400px;
+    left: 70px;
+}
+.info5:hover .caption5{
+    visibility: visible;
+    opacity: 1;
+
+}
+.info5:hover .name51{
+    visibility: visible;
+    opacity: 1;
+    top: -1px;
+}
+.info5:hover .name52{
+    visibility: visible;
+    opacity: 1;
+    top: 30px;
+}
+.info5:hover .icons51{
+    visibility: visible;
+    opacity: 1;
+    top: 90px;
+}
+.info5:hover .icons52{
+    visibility: visible;
+    opacity: 1;
+    top: 90px;
+}
+
+
+.info6{
+    overflow: hidden;
+    height: 220px;
+    width: 180px;
+    position: absolute;
+    left: 925px;
+    top: 1716px;
+}
+.info6 .coach6{
+    width: 100%;
+    height: 100%;
+    transition: 2s;
+}
+.info6 .caption6{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color:rgba(255, 255, 255, 0.5);
+    transition: 0.7s;
+    text-align: center;
+    opacity: 0;
+    transition: 1s;
+    visibility: hidden;
+
+}
+.info6 .caption6 .content6{
+    position: relative;
+    top: 72px;
+    
+}
+.info6 .caption6 .name61{
+    color: #0077be;
+    text-transform: uppercase;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s ;
+    transition-delay: 0;
+    position: absolute;
+    top: 400px;
+    left: 70px;
+}
+.info6 .caption6 .name62{
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s ;
+    transition-delay: 0.5s;
+    position: absolute;
+    font-weight: bold;
+    top: 400px;
+    left: 80px;
+}
+.info6 .caption6 .icons61{
+    background-color: rgba(30, 144, 255, 0.5);;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s;
+    transition-delay: 1s;
+    position: absolute;
+    height: 20px;
+    top: 400px;
+    left: 100px;
+
+}
+.info6 .caption6 .icons62{
+    background-color: rgba(30, 144, 255, 0.5);;
+    opacity: 0;
+    visibility: hidden;
+    transition: top 1s;
+    transition-delay: 1s;
+    position: absolute;
+    height: 20px;
+    top: 400px;
+    left: 70px;
+}
+.info6:hover .caption6{
+    visibility: visible;
+    opacity: 1;
+
+}
+.info6:hover .name61{
+    visibility: visible;
+    opacity: 1;
+    top: -1px;
+}
+.info6:hover .name62{
+    visibility: visible;
+    opacity: 1;
+    top: 30px;
+}
+.info6:hover .icons61{
+    visibility: visible;
+    opacity: 1;
+    top: 90px;
+}
+.info6:hover .icons62{
+    visibility: visible;
+    opacity: 1;
+    top: 90px;
+}
